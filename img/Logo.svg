@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="61px" viewBox="0 0 85 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="97.8942328%" y2="49.7500002%" id="linearGradient-1">
+            <stop stop-color="#00C593" stop-opacity="0.816094882" offset="0%"></stop>
+            <stop stop-color="#53C6FE" offset="47.5247532%"></stop>
+            <stop stop-color="#01A7DC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="АРСРМ" transform="translate(-90.000000, -35.000000)">
+            <g id="Logo" transform="translate(90.000000, 35.000000)">
+                <text id="АРСРМ" font-family="Roboto-Bold, Roboto" font-size="16.64" font-weight="bold" fill="#5E5E5E">
+                    <tspan x="28" y="60">АРСРМ</tspan>
+                </text>
+                <g id="Group-6">
+                    <g id="Group-2" fill-rule="nonzero" fill="#26B5AE" opacity="0.736823694">
+                        <g id="noun_726901_cc" transform="translate(0.000000, 0.268717)">
+                            <g id="icons">
+                                <path d="M30.579264,0.0800378257 C29.2639318,0.314380425 26.7643047,0.91912032 27.5598461,5.60973117 C28.3553876,10.300342 29.5304053,12.7644136 29.5304053,12.7644136 L27.1485332,13.9918783 C27.1485332,13.9918783 27.2173175,2.32417702 19.8453048,2.63190914 C12.473292,2.93964127 5.72314126,19.0838572 3.19015587,26.9456297 C0.839256343,34.242252 -1.87649625,49.1089987 2.67409448,52.722257 C8.23581577,57.1383726 12.547036,49.7066969 19.8453048,46.2746327 C25.3056007,43.7068887 28.2611684,42.2920113 29.6357553,41.3884666 C33.469012,38.8687868 27.3155578,14.4289346 27.1485332,13.9918783 L29.5304053,12.7644136 C29.592017,13.2597734 29.7873511,14.116362 30.0117573,15.25371 C30.2361635,16.391058 33.5104423,33.3694871 35.9618657,35.9168344 C38.4132891,38.4641817 41.9179753,35.9277713 44.5158934,35.9168344 C47.3222219,35.9050202 56.5389417,38.1899177 58.1838716,35.021501 C59.8288015,31.8530843 55.3387526,20.9892118 50.7712614,15.1800269 C41.4042367,3.26653276 33.8751885,-0.507171608 30.579264,0.0800378257 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3" transform="translate(28.654270, 7.131396)" fill="#FFFFFF">
+                        <ellipse id="Oval-2" cx="14.6296139" cy="13.5939227" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <ellipse id="Oval-2" cx="23.4467129" cy="21.7081713" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <ellipse id="Oval-2" cx="10.5073393" cy="2.71878455" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <ellipse id="Oval-2" cx="11.194385" cy="22.4299725" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <polygon id="Path-10" points="0.494539787 6.79265471 1.25140501 8.36159093 13.4885874 13.0584775 13.9425681 12.0787199"></polygon>
+                        <path d="M11.5379079,5.09772103 L13.5990452,11.2149863" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M16.3472283,14.6134669 L22.5483433,20.1088415" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M13.5990452,15.9728592 L11.5379079,20.051036" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M21.1565487,21.7514794 L13.7936954,22.2158382" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                    </g>
+                    <g id="Group-3" transform="translate(16.168877, 26.990788) scale(-1, 1) translate(-16.168877, -26.990788) translate(4.168877, 8.490788)" fill="#FFFFFF">
+                        <ellipse id="Oval-2" cx="14.4279612" cy="14.2736189" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <ellipse id="Oval-2" cx="20.6267083" cy="33.3381235" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <ellipse id="Oval-2" cx="10.3056866" cy="2.71878455" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <ellipse id="Oval-2" cx="2.74818309" cy="23.7893648" rx="2.74818309" ry="2.71878455"></ellipse>
+                        <polygon id="Path-10" points="0.409332232 6.47756623 0.409332232 7.7401583 12.0141147 13.7876928 12.3959709 12.6981142"></polygon>
+                        <path d="M11.1546096,4.80178253 L13.610277,11.7070141" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M15.0135155,16.5406762 L20.4426862,31.1927561" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M12.5578481,15.850153 L4.84003629,22.0648614" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                        <path d="M18.3355433,32.5851612 L4.84003629,25.1722156" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,633 @@
+@font-face {
+        font-family: "RobotoRegular";
+        src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+        src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+        url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+        font-style: normal;
+        font-weight: normal;
+}
+
+@font-face {
+        font-family: "RobotoLight";
+        src: url("../fonts/RobotoLight/RobotoLight.eot");
+        src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+        url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+        font-style: normal;
+        font-weight: normal;
+}
+
+@font-face {
+        font-family: "RobotoMedium";
+        src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+        src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+        url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+        font-style: normal;
+        font-weight: normal;
+}
+
+@font-face {
+        font-family: "RobotoBold";
+        src: url("../fonts/RobotoBold/RobotoBold.eot");
+        src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/RobotoBold/RobotoBold.woff") format("woff"),
+        url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+        font-style: normal;
+        font-weight: normal;
+}
+
+* {
+    font-family: "RobotoRegular";/*этот стиль применится для всех элементов*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #64c7bf;
+    padding-top: 100px;
+}
+
+.body{
+    background-color: #ffffff;
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 200px;
+ /*   border: 1px solid red;  */
+}
+header {
+    position: fixed;
+    top: 0;
+    padding-left: 180px;
+    width: 1000px;
+    padding-top: 40px;
+    height: 100px;
+    background: #fff;
+    opacity: 0.9;
+    z-index: 400;
+}
+.logo{
+    position: absolute;
+    left: 10px;
+    top: 25px;
+    width: 180px;
+}
+.logo a img{
+    width: 80px;
+    height: auto;
+}
+.top-menu{
+    vertical-align: middle;
+    list-style-type: none;
+    background-color: white;
+    text-align: right;
+}
+
+.top-menu nav a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #767676;
+    display: inline-block;
+    margin-left: 25px;
+    min-width: 120px;
+    text-align: center;
+    font-family: "RobotoLight";
+}
+
+.top-menu nav a:hover{
+    display: inline-block;
+    color: #040404;
+    border-bottom: 2px solid #5fc8c3;
+    /*bottom: -1px;*/
+
+}
+
+
+.big-div {
+    margin: 0 auto;
+    width: 750px;
+    position: relative;
+}
+.text-title {
+    width: 60%;
+}
+.img-title {
+    width: 40%;
+    padding-top: 60px;
+}
+.small-div {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+.small-div h1{
+    color: #5fc8c3;
+    font-size: 100px;
+}
+.small-div .add {
+    width: 300px;
+    height: 60px;
+    line-height: 58px;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid #26b5ae;
+    color: #26b5ae;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: 30px;
+}
+.small-div p{
+    display: inline-block;
+    font-size: 20px;
+    color: #525252;
+    line-height: 30px;
+}
+
+.small-div p.goal{
+    font-size: 18px;
+    color: #414141;
+    line-height: 30px;
+    margin-top: 50px;
+    font-family: "RobotoLight";
+}
+
+.small-div p.goal span{
+    color: #7ad1d1;
+    font-size: 20px;
+    letter-spacing: -0.3px;
+    line-height: 30px;
+}
+
+.small-div img {
+    display: inline-block;
+    width: 100%;
+}
+/*
+.small-div div{
+    background-image: url("img/Bitmap.png");
+}
+*/
+
+.line{
+    width: 250px;
+    height: 1px;
+    background-color: #5fc8c3;
+    margin: 100px auto 0 auto;
+}
+
+
+.target{
+    display: block;
+    width: 302px;
+    height: 60px;
+    color: #747474;
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+.span{
+    color: #7ad1d1;
+}
+
+.bitmap img{
+    display: inline-block;
+    width: 328px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    top: 178px;
+
+}
+
+.history{
+    color: #5fc8c3;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: -0.5px;
+    text-align: center;
+}
+
+.history_div{
+    display: table;
+    width: 850px;
+    height: 360px;
+    box-shadow: 0 0 10px #bababa;
+    padding: 60px;
+    margin: 60px auto;
+}
+
+.history_p{
+    display: table-cell;
+    width: 180px;
+    color: #767676;
+    font-size: 14px;
+    letter-spacing: -0.2px;
+    position: relative;
+    vertical-align: top;
+}
+.history_p .date1 {
+    padding-top: 68px;
+    font-weight: bold;
+}
+.history_p .date2 {
+    padding-top: 58px;
+    font-weight: bold;
+}
+.history_p .date3 {
+    padding-top: 50px;
+    font-weight: bold;
+}
+.history_2p .descr1 {
+    padding-top: 68px;
+}
+.history_2p .descr2 {
+    padding-top: 20px;
+}
+.history_2p .descr3 {
+    padding-top: 50px;
+}
+.img{
+    display: table-cell;
+    width: 95px;
+    background: url("../img/Stetoscope.png") no-repeat;
+    position: relative;
+    vertical-align: top;
+}
+
+.history_2p{
+    display: table-cell;
+    color: #767676;
+    font-size: 14px;
+    letter-spacing: -0.2px;
+    position: relative;
+    vertical-align: top;
+}
+
+.karusel{
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.karusel a{
+    display: inline-block;
+    color: #7ad1d1;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    vertical-align: 50%;
+}
+
+.karusel div{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.karusel_img img{
+    display: inline-block;
+    width: 146px;
+    height: 99px;
+}
+
+.founders{
+    display: table;
+    margin: 60px auto;
+    width: 1000px;
+}
+
+.association{
+    display: inline-block;
+    width: 50%;
+    padding: 40px;
+    height: 450px;
+    box-shadow: 0 0 10px #bababa;
+    z-index: 2;
+    vertical-align: top;
+}
+
+.association ul{
+    display: inline-block;
+    color: #767676;
+    letter-spacing: -0.2px;
+    position: relative;
+    list-style: none;
+}
+.association li {
+    display: inline-block;
+    padding-left: 69px;
+    height: 49px;
+    line-height: 49px;
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+.association .association1 {
+    background: url(../img/logo_association1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.association .association2 {
+    background: url(../img/logo_association2.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.association .association3 {
+    background: url(../img/logo_association3.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.association .association4 {
+    background: url(../img/logo_association4.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.addition {
+    padding-top: 25px;
+}
+.addition p{
+    display: inline-block;
+    color: #767676;
+    font-size: 13px;
+    letter-spacing: -0.2px;
+    vertical-align: top;
+}
+.add-text {
+    display: inline-block;
+    width: 69px;
+    color: #5fc8c3;
+    font-size: 13px;
+    vertical-align: top;
+    position: relative;
+    font-weight: bold;
+}
+/*
+.association p:before{
+    content: 'А ТАКЖЕ';
+    color: #5fc8c3;
+    font-size: 15px;
+}
+*/
+.imagine{
+    display: inline-block;
+    height:450px;
+    width: 50%;
+    background: url("../img/doctors.png") right no-repeat;
+    text-align: right;
+    z-index: 1;
+}
+
+.karusel_2.center {
+    width: auto;
+    display: block;
+}
+.karusel_2{
+    display: table;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+    /*padding-bottom: 40px;*/
+}
+.karusel_2.center > div {
+    display: block;
+    width: auto;
+}
+.karusel_2 > div{
+    display: table-cell;
+    width: 170px;
+    height: auto;
+}
+.karusel_2 .img2.active, .karusel_2.center .slick-center .img2 {
+    width: auto;
+    position: relative;
+    opacity: 1;
+    padding-top: 0;
+}
+.karusel_2 .img2.active img, .karusel_2.center .slick-center .img2 img {
+    width: 150px;
+}
+
+.karusel_2 a{
+    display: inline-block;
+    color: #7ad1d1;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    vertical-align: 50%;
+}
+.karusel_2 .down-click, .karusel_2 .next-click {
+    position: absolute;
+    font-weight: normal;
+}
+.karusel_2 .down-click {
+    left: 12px;
+    top: 132px;
+}
+.karusel_2 .next-click {
+    right: 12px;
+    top: 132px;
+}
+.karusel_2 .img2 img{
+    display: inline-block;
+    width: 100px;
+    height: auto;
+    border-radius: 90px;
+    display: none;
+}
+
+.karusel_2 .img2{
+    opacity: 0.7;
+    padding-top: 40px;
+}
+.karusel_2 .img2 .job-title {
+    padding-top: 10px;
+}
+.karusel_2 .img2 .republic {
+    padding-top: 8px;
+}
+div.img2 p{
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.2px;
+    color: #a4a4a4;
+    font-weight: bold;
+}
+
+div.img2 p.name{
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.2px;
+    color: #444444;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+div.img2 p.republic{
+    font-size: 13px;
+    line-height: 30px;
+    letter-spacing: -0.2px;
+    color: #444444;
+    font-weight: normal;
+}
+
+div.active p.name, div.slick-center p.name{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 29px;
+    letter-spacing: -0.2px;
+    color: #444444;
+    padding-top: 30px;
+}
+
+div.active p.job-title, div.slick-center p.job-title {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 29px;
+    letter-spacing: -0.2px;
+    color: #a4a4a4;
+    padding-top: 15px !important;
+}
+
+div.active p.republic, div.slick-center p.republic{
+    font-size: 16px;
+    line-height: 45px;
+    letter-spacing: -0.2px;
+    color: #444444;
+    padding-top: 0 !important;
+}
+
+.big_div{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.small_div{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    text-align: center;
+}
+
+.small2_div{
+    display: inline-block;
+    width: 75%;
+    vertical-align: top;
+}
+
+.small_div span{
+    font-size: 64px;
+    font-weight: bold;
+    color: #74d0cb;
+    letter-spacing: -0.5px;
+    position: relative;
+    line-height: 54px;
+}
+
+.small_div .month{
+    font-size: 14px;
+    font-weight: bold;
+    color: #767676;
+    letter-spacing: -0.5px;
+    position: relative;
+    padding-top: 20px;
+}
+
+.small_div span.two{
+    display: inline-block;
+    font-size: 62px;
+    font-weight: bold;
+    color: #74d0cb;
+    letter-spacing: -0.5px;
+    text-align: center;
+}
+
+.small2_div p{
+    display: inline-block;
+    font-size: 14px;
+    color: #767676;
+    letter-spacing: -0.5px;
+    line-height: 20px;
+    vertical-align: top;
+}
+
+.small2_div address{
+    font-size: 14px;
+    color: #b9b9b9;
+    letter-spacing: -0.5px;
+    line-height: 20px;
+    font-family: "RobotoLight";
+    font-style: normal;
+    padding-top: 15px;
+}
+
+.map{
+    width: 1000px;
+    height: 450px;
+    background: url("../img/map.png") no-repeat;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.map_div{
+    width: 470px;
+    box-shadow: 0 0 10px #bababa;
+    background-color: white;
+    padding: 35px 40px;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+}
+.map_div address {
+    padding-top: 30px;
+}
+.map_div address ul {
+    list-style: none;
+}
+.map_div address ul li {
+    font-size: 13px;
+    color: #767676;
+    font-style: normal;
+    padding-bottom: 10px;
+}
+.map_div address ul li:last-child {
+    padding-bottom: 0;
+}
+.map_div address ul li i {
+    display: inline-block;
+    padding-right: 30px;
+}
+.map h2{
+    color: #64c7bf;
+    font-size: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    margin-left: -330px;
+}
+
+.map_div p{
+    font-size: 13px;
+    line-height: 20px;
+    color: #767676;
+    padding-bottom: 10px;
+}
+footer{
+    height: 50px;
+    line-height: 50px;
+    background-color: #74d0cb;
+    color: white;
+    text-align: right;
+    padding-right: 70px;
+}
+footer p {
+    font-size: 14px;
+}

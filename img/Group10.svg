@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="61px" viewBox="0 0 85 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.25781251%" y1="49.7500002%" x2="97.8942328%" y2="49.7500002%" id="linearGradient-1">
+            <stop stop-color="#00C593" stop-opacity="0.816094882" offset="0%"></stop>
+            <stop stop-color="#53C6FE" offset="47.5247532%"></stop>
+            <stop stop-color="#01A7DC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="АРСРМ" transform="translate(-89.000000, -35.000000)">
+            <g id="Group-10" transform="translate(89.000000, 35.000000)">
+                <path d="M30.4444444,15.3655016 C30.4444444,15.3655016 33.4444444,38.8655016 39.4444444,37.3655016 C48.4444444,34.3655016 55.4444444,39.3655016 58.4444444,35.3655016 C60.9444444,30.3655016 52.9444444,16.8655016 49.4444444,12.8655016 C45.9444444,8.86550164 35.9444444,-2.13449836 30.4444444,0.365501638 C24.9444444,2.86550164 30,12.5 30,13.5 C30,14.5 30.4444444,15.3655016 30.4444444,15.3655016 Z" id="Path-3" fill="#5FC8C3"></path>
+                <g id="Group-5" transform="translate(0.000000, 2.000000)">
+                    <g id="Logo">
+                        <text id="АРСРМ" font-family="Roboto-Bold, Roboto" font-size="16.64" font-weight="bold" fill="#5E5E5E">
+                            <tspan x="28" y="58">АРСРМ</tspan>
+                        </text>
+                        <g id="Group-6">
+                            <g id="Group-2" fill-rule="nonzero" fill="#26B5AE" opacity="0.736823694">
+                                <g id="noun_726901_cc" transform="translate(0.000000, 0.268717)">
+                                    <g id="icons">
+                                        <path d="M19.8453048,0.631909144 C12.473292,0.939641266 5.72314126,17.0838572 3.19015587,24.9456297 C0.839256343,32.242252 -1.87649625,47.1089987 2.67409448,50.722257 C8.23581577,55.1383726 12.547036,47.7066969 19.8453048,44.2746327 C25.3056007,41.7068887 28.2611684,40.2920113 29.6357553,39.3884666 C33.469012,36.8687868 27.3155578,12.4289346 27.1485332,11.9918783 C27.1485332,11.9918783 27.2173175,0.324177023 19.8453048,0.631909144 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-3" transform="translate(28.654270, 5.131396)" fill="#FFFFFF">
+                                <ellipse id="Oval-2" cx="14.6296139" cy="13.5939227" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <ellipse id="Oval-2" cx="23.4467129" cy="21.7081713" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <ellipse id="Oval-2" cx="10.5073393" cy="2.71878455" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <ellipse id="Oval-2" cx="11.194385" cy="22.4299725" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <polygon id="Path-10" points="0.494539787 6.79265471 1.25140501 8.36159093 13.4885874 13.0584775 13.9425681 12.0787199"></polygon>
+                                <path d="M11.5379079,5.09772103 L13.8457303,12.3686041" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                                <path d="M16.3472283,14.6134669 L22.5483433,20.1088415" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                                <path d="M13.5990452,15.9728592 L11.5379079,20.051036" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                                <path d="M21.1565487,21.7514794 L13.7936954,22.2158382" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                            </g>
+                            <g id="Group-3" transform="translate(16.168877, 24.990788) scale(-1, 1) translate(-16.168877, -24.990788) translate(4.168877, 6.490788)" fill="#FFFFFF">
+                                <ellipse id="Oval-2" cx="14.4279612" cy="14.2736189" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <ellipse id="Oval-2" cx="20.6267083" cy="33.3381235" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <ellipse id="Oval-2" cx="10.3056866" cy="2.71878455" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <ellipse id="Oval-2" cx="2.74818309" cy="23.7893648" rx="2.74818309" ry="2.71878455"></ellipse>
+                                <polygon id="Path-10" points="0.409332232 6.47756623 0.409332232 7.7401583 12.0141147 13.7876928 12.3959709 12.6981142"></polygon>
+                                <path d="M11.1546096,4.80178253 L13.6688766,12.0092118" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                                <path d="M15.0135155,16.5406762 L20.4426862,31.1927561" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                                <path d="M12.5578481,15.850153 L3.66887664,23.0092118" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                                <path d="M18.3355433,32.5851612 L4.84003629,25.1722156" id="Path-11" stroke="#FFFFFF" stroke-width="1.5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
